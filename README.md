@@ -119,6 +119,7 @@ run().catch(console.dir);
 ### Run the Script
 ```sh
 node index.js
+
 ```
 
 ---
